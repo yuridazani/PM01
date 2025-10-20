@@ -1,16 +1,22 @@
-# pm01
+# Proyek Profil Sederhana - Flutter
 
-A new Flutter project.
+Aplikasi ini adalah proyek tugas untuk mata kuliah **Pemrograman Mobile**.  
+Tujuannya adalah untuk membuat halaman profil statis sederhana menggunakan **Flutter** dan widget-widget dasarnya.
 
-## Getting Started
+## Informasi Mahasiswa
 
-This project is a starting point for a Flutter application.
+Nama: **Yurida Zani**  
+NIM: **22108020001**  
+Mata Kuliah: **Pemrograman Mobile**
 
-A few resources to get you started if this is your first Flutter project:
+## Deskripsi Tugas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tugas ini berfokus pada implementasi **UI (User Interface)** dasar di Flutter untuk menampilkan sebuah halaman profil.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Fitur yang Diimplementasikan
+
+- Menampilkan gambar profil dalam bentuk lingkaran menggunakan `CircleAvatar`.
+- Menampilkan nama dan status/jabatan menggunakan widget `Text`.
+- Mengatur tata letak widget secara vertikal dengan `Column`.
+- Memberi tombol sederhana menggunakan `ElevatedButton`.
+- Menggunakan `Scaffold` sebagai struktur dasar halaman dan `AppBar` sebagai judul halaman.
