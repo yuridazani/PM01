@@ -19,9 +19,6 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   
-  # Bagian ini PENTING!
-  # Ini untuk mendaftarkan folder gambar agar bisa digunakan di aplikasi.
-  # Pastikan spasi/indentasi-nya pas seperti ini.
   assets:
     - assets/images/
 
